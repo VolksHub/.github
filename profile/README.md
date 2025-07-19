@@ -15,7 +15,7 @@ We know what the consumer wants, so we provide exactly what is needed. No questi
 
 # 🤔 Speaking of that, what do you provide?
 
-As an artificial intelligence geared company, we push for a society where AI assists the average user, thus we provide that stepping stone by developing small scale AI model designed to help the average user.
+As an artificial intelligence geared company, we push for a society where AI assists the average user, thus we provide that stepping stone by developing small scale AI models designed to help the average user.
 
 ---
 
