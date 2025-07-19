@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+
+![image alt](https://github.com/notvolks/SulfurAI-1.3/blob/main-drl-54c/GitHub/images/sulfurai_txt.png?raw=true)
 
 <!--
 
