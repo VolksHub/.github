@@ -1,6 +1,6 @@
 <div align="center">
 
-![image alt](https://github.com/notvolks/SulfurAI-1.3/blob/main-drl-54c/GitHub/images/sulfurai_txt.png?raw=true)
+<img src="https://github.com/VolksHub/.github/blob/main/GitHub/images/volkslogotransparent.png?raw=true" height="1000">
 
 <!--
 
